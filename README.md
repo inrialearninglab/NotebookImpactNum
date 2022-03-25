@@ -18,6 +18,6 @@ Vous pourrez par exemple :
 Pour vous inspirer, voici quelques sources avec différents indicateurs que vous pourrez utiliser :
 * [**PIB :** Liste des pays par PIB (PPA) par habitant — Wikipédia (2017)](https://fr.wikipedia.org/wiki/Liste_des_pays_par_PIB__par_habitant)
 * [**Happiness :**  World hapiness report (2019)](https://fr.wikipedia.org/wiki/World_Happiness_Report)
-* [**IDH :**  Indice de développement humain — Wikipédia](https://fr.wikipedia.org/wiki/Indice_de_développement_humain)
+* [**IDH :**  Indice de développement humain — Wikipédia](https://en.wikipedia.org/wiki/Human_Development_Index)
 * [**Pourcentage de la population qui utilise un smartphone :** List of countries by smartphone penetration](https://en.wikipedia.org/wiki/List_of_countries_by_smartphone_penetration)
 * [**L’empreinte écologique et biocapacité**](https://data.footprintnetwork.org/#/)
