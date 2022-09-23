@@ -5,6 +5,9 @@ Ce notebook permet de visualiser l'empreinte écologique par pays en fonction de
 Cette activité pédagogique est aussi disponible via [ce lien](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie1/Activites/Capsule_Partie1_4_2Agir/story.html).
 
 ## Liens vers exécuter/visualiser le notebook
+### Avec Jupyterlite
+[Lien pour exécuter et modifier le notebook avec Jupyterlite](https://inrialearninglab.github.io/NotebookImpactNumJupyterlite/retro/notebooks/index.html?path=PaysParPourcentageInternetEtEmpreinteEcologique.ipynb)
+### Avec le binder de github
 - pour exécuter et modifier le notebook : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/inrialearninglab/NotebookImpactNum/main?filepath=PaysParPourcentageInternetEtEmpreinteEcologique.ipynb)
 - pour visualiser le notebook [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/inrialearninglab/NotebookImpactNum/blob/main/PaysParPourcentageInternetEtEmpreinteEcologique.ipynb)
 
